@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Page-1" id="n3rQ4XZsZPr-WHWTvmwM">
-    <mxGraphModel dx="1683" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,39 @@
         </mxCell>
         <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-31" value="red-host-4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1573" y="1038" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-32" value="UDP Ports:&lt;br&gt;2000&lt;div&gt;2011&lt;/div&gt;&lt;div&gt;2200&lt;/div&gt;&lt;div&gt;2250&lt;/div&gt;&lt;div&gt;2999&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="1184" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-33" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-34" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1496" y="1068" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-35" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1573" y="1068" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-36" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1496" y="726" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-37" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-38" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="780" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-39" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-40" value="TCP Port:&amp;nbsp;&lt;div&gt;22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="978" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-41" value="UDP Ports:&lt;br&gt;1984&lt;div&gt;1989&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1408" y="1058" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hHOc2Fbfp9tJ3TWlhPiR-42" value="TCP Ports:&lt;div&gt;22&lt;/div&gt;&lt;div&gt;80&lt;/div&gt;&lt;div&gt;1980&lt;/div&gt;&lt;div&gt;1982&lt;/div&gt;&lt;div&gt;1988&lt;/div&gt;&lt;div&gt;1989&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1150" width="60" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
